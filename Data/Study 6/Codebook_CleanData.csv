@@ -1,0 +1,11 @@
+Column Name,Description,Scale Items
+bonusamount,Bonus chosen (in cents),N/A
+workerid,MTurk ID,N/A
+box_opened,Box kept, 1-5
+bonusamountnumeric,Bonus chosen (numeric),N/A
+memory_max,Memory for maximum bonus in common category,0-500
+memory_max_recoded,Memory for maximum bonus in common category (after correcting for answers entered as cents),N/A
+condition ,Dispersion of manipulated category,N/A
+label_category,Label assigned to common category,N/A
+excluded,Excluded if memory maximum < 32,N/A
+excluded_if_recoded,Excluded if memory maximum after recoding < 32,N/A

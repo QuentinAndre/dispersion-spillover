@@ -1,0 +1,8 @@
+Column Name,Description,Scale Items
+turkid,MTurk ID,N/A
+name_manipulated,Name of manipulated category,N/A
+is_manipulated,Was this item manipulated?,N/A
+sd_manipulated,SD of manipulated category,N/A
+is_first,Was this category presented first (vs. Second?),
+value_id,ID of value entered,N/A
+value,Value entered in the distribution builder,N/A

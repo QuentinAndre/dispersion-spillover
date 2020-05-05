@@ -1,0 +1,10 @@
+Column Name,Description,Scale Items
+turkid,MTurk ID,N/A
+label_category,Label of common category,N/A
+condition,SD of manipulated category,N/A
+memory_avg,Memory for average price in common category,0-2000
+memory_min,Memory for minimum price in common category,0-500
+below_true_min,Is memory for minimum price below true min? (computed),
+search_length,Day on which offer was accepted,Between 1 and 6
+paid_price,Price paid for ticket,N/A
+excluded,Excluded if memory minimum > 320,

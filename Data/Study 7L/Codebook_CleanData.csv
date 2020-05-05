@@ -1,0 +1,9 @@
+Column Name,Description,Scale Items
+sample,Sample of respondents,N/A
+responseid,Response ID,N/A
+bid_placed,Bid placed,0-60
+dispersion,Dispersion of manipulated category,N/A
+condition,Experimental condition,N/A
+memory_max,Memory for maximum bid,0-100
+above_actual_max,Is memory for maximum bid above actual maximum,N/A
+excluded,Did participant pass attention/comprehension checks?,N/A

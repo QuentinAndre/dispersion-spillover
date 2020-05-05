@@ -1,0 +1,10 @@
+Column Name,Description,Scale Items
+turkid,MTurk ID,N/A
+avg_learning_time,Average time spent learning each price,N/A
+total_learning_time,Total time learning prices,N/A
+name_manipulated,Name of manipulated category,N/A
+is_manipulated,Was this item manipulated?,N/A
+name,Name of item,N/A
+sd_manipulated,SD of manipulated category,N/A
+value_id,ID of value entered,N/A
+value,Value entered in the distribution builder,N/A

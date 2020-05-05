@@ -1,0 +1,9 @@
+Column Name,Description,Scale Items
+turkid,MTurk ID,N/A
+condition,SD of manipulated category,N/A
+label_category,Label of common category,N/A
+memory_min,Memory for minimum price in common category,0-500
+memory_avg,Memory for average price in common category,0-500
+offer,Current offer,N/A
+LTA,Likelihood to accept current offer," -3 (definitely reject) to +3 (definitely accept)"""
+has_consistent_pref,Is LTA decreasing in offer amount?,N/A

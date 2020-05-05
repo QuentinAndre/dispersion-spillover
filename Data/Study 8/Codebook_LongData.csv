@@ -1,0 +1,7 @@
+Column Name,Description,Scale Items
+turkid,MTurk ID,N/A
+is_manipulated,Was this item manipulated?,N/A
+wine,Name of this item,N/A
+mean_manipulated,Mean of manipulated category,N/A
+value_id,ID of value entered,N/A
+value,Value entered in the distribution builder,N/A

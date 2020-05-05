@@ -1,0 +1,15 @@
+Column Name,Description,Scale Items
+turkid,MTurk ID,N/A
+pid,Participant ID,N/A
+similarity,Similarity of items (Red/white wines vs. Red wines/smartphone cases),N/A
+item,Focal item,N/A
+sd_item_one,SD of first item,N/A
+sd_item_two,SD of second item,N/A
+mean_item_one,Mean of first item,N/A
+mean_item_two,Mean of second item,N/A
+sd_focal,SD of focal item,N/A
+sd_other,SD of other item,N/A
+mean_focal,Mean of focal item,N/A
+mean_other,Mean of other item,N/A
+value_id,ID of value entered,N/A
+value,Value entered,N/A

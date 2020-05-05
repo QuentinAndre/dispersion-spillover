@@ -1,0 +1,11 @@
+Column Name,Description,Scale Items
+turkid,MTurk ID,N/A
+name_manipulated,Name of manipulated category,N/A
+sd_manipulated,Dispersion of manipulated category,N/A
+target,Target of judgment,N/A
+memory_min,Memory for minimum price,0-100
+memory_max,Memory for maximum price,0-100
+memory_range,"Memory for range (computed, difference between min and max)",N/A
+unpredictable,"""Prices of […] were unpredictable""",1-7 (Very Unpredictable/Very Predictable)
+inconsistent,"""Prices of […] were inconsistent""",1-7 (Very Inconsistent/Very Consistent)
+valid_response,Is the minimum price smaller than maximum price (computed),N/A
